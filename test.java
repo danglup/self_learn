@@ -5,3 +5,5 @@ int b = d;
 int a = c;
 int b = d;
 
+int a = c;
+int b = d;
